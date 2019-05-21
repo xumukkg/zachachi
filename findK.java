@@ -17,7 +17,7 @@ public class findK
     public static void main(String args[])
     {
         int a[] = {1,2,3,4,5,6,8,9,10};
-        int miss = getNunmber(a,9);
+        int miss = getNumber(a,9);
 //        не забудьте ввести количества элементов в массиве, т.е. n
         System.out.println(miss);
     }
