@@ -1,7 +1,7 @@
 package com.company;
 public class findK
 {
-    // Function to ind missing number 
+
     public static int getNumber (int a[], int n)
     {
         int i, total;
